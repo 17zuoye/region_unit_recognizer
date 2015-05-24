@@ -16,6 +16,7 @@ setup(
     zip_safe=False,
     platforms='any',
     install_requires=[
+        'jieba',
         'etl_utils >= 0.0.5',
     ],
     classifiers=[

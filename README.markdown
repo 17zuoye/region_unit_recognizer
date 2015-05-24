@@ -1,5 +1,12 @@
 Region Unit Recognizer
 ====================================
+[![Build Status](https://img.shields.io/travis/17zuoye/region_unit_recognizer/master.svg?style=flat)](https://travis-ci.org/17zuoye/region_unit_recognizer)
+[![Coverage Status](https://coveralls.io/repos/17zuoye/region_unit_recognizer/badge.svg)](https://coveralls.io/r/17zuoye/region_unit_recognizer)
+[![Health](https://landscape.io/github/17zuoye/region_unit_recognizer/master/landscape.svg?style=flat)](https://landscape.io/github/17zuoye/region_unit_recognizer/master)
+[![Download](https://img.shields.io/pypi/dm/region_unit_recognizer.svg?style=flat)](https://pypi.python.org/pypi/region_unit_recognizer)
+[![License](https://img.shields.io/pypi/l/region_unit_recognizer.svg?style=flat)](https://pypi.python.org/pypi/region_unit_recognizer)
+
+
 识别 带有省市区等地址的 企事业单位。
 
 

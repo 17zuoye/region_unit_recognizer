@@ -4,3 +4,6 @@ dist/
 
 *.pyc
 *.cPickle
+*.yml
+.tox
+.coverage
